@@ -1,0 +1,5 @@
+[snippet]
+title = "title;;"
+body = "line1\nline1\nline2\n"
+syntax = "Ruby"
+tag = "Ruby"
